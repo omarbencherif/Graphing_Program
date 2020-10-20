@@ -1,0 +1,29 @@
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Computing Project.vbprojResolveAssemblyReference.cache
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Computing Project.vbproj.GenerateResource.Cache
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\omaro\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.enterpolynomial.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Computing Project.vbprojResolveAssemblyReference.cache
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.enterpolynomial.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Computing Project.vbproj.GenerateResource.Cache
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Graphing.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Debug\WindowsApplication3.pdb

@@ -1,0 +1,11 @@
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing Project.vbprojResolveAssemblyReference.cache
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing Project.vbproj.GenerateResource.Cache
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\bin\Release\Computing Project.exe.config
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\bin\Release\Computing Project.exe
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\bin\Release\Computing Project.pdb
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\bin\Release\Computing Project.xml
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing_Project.Resources.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing_Project.graph.resources
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing Project.exe
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing Project.xml
+C:\Users\Omar\OneDrive\Documents\Visual Studio 2015\Projects\Computing Project\WindowsApplication3\obj\Release\Computing Project.pdb
